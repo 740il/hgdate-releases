@@ -9,7 +9,8 @@
    "nameEn": "Willow · Navy",
    "color": "#C7AD83",
    "pos": 0.59,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "gift_02",
@@ -19,7 +20,8 @@
    "nameEn": "Gift 2",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "gift_03",
@@ -29,7 +31,8 @@
    "nameEn": "Gift 3",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "gift_04",
@@ -39,7 +42,8 @@
    "nameEn": "Gift 4",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "gift_05",
@@ -49,7 +53,8 @@
    "nameEn": "Gift 5",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "gift_06",
@@ -59,7 +64,8 @@
    "nameEn": "Gift 6",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "gift_07",
@@ -69,7 +75,8 @@
    "nameEn": "Gift 7",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "gift_08",
@@ -79,7 +86,8 @@
    "nameEn": "Gift 8",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "gift_09",
@@ -89,7 +97,8 @@
    "nameEn": "Gift 9",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "gift_10",
@@ -99,37 +108,41 @@
    "nameEn": "Gift 10",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "islamic_01",
    "section": "islamic",
    "file": "islamic_01.jpg",
-   "name": "إسلاميات 1",
-   "nameEn": "Islamic 1",
-   "color": "",
+   "name": "ركن الكعبة",
+   "nameEn": "Kaaba Corner",
+   "color": "#E9CF8E",
    "pos": 0.6,
-   "shade": false
+   "shade": true,
+   "end": 0.97
   },
   {
    "id": "islamic_02",
    "section": "islamic",
    "file": "islamic_02.jpg",
-   "name": "إسلاميات 2",
-   "nameEn": "Islamic 2",
-   "color": "",
-   "pos": 0.6,
-   "shade": false
+   "name": "خط ذهبي",
+   "nameEn": "Golden Calligraphy",
+   "color": "#D9B577",
+   "pos": 0.58,
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "islamic_03",
    "section": "islamic",
    "file": "islamic_03.jpg",
-   "name": "إسلاميات 3",
-   "nameEn": "Islamic 3",
-   "color": "",
-   "pos": 0.6,
-   "shade": false
+   "name": "مكة بالألوان المائية",
+   "nameEn": "Makkah Watercolor",
+   "color": "#3B342C",
+   "pos": 0.05,
+   "shade": false,
+   "end": 0.34
   },
   {
    "id": "islamic_04",
@@ -139,7 +152,8 @@
    "nameEn": "Islamic 4",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "islamic_05",
@@ -149,7 +163,8 @@
    "nameEn": "Islamic 5",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "islamic_06",
@@ -159,7 +174,8 @@
    "nameEn": "Islamic 6",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "islamic_07",
@@ -169,7 +185,8 @@
    "nameEn": "Islamic 7",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "islamic_08",
@@ -179,7 +196,8 @@
    "nameEn": "Islamic 8",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "islamic_09",
@@ -189,7 +207,8 @@
    "nameEn": "Islamic 9",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   },
   {
    "id": "islamic_10",
@@ -199,7 +218,8 @@
    "nameEn": "Islamic 10",
    "color": "",
    "pos": 0.6,
-   "shade": false
+   "shade": false,
+   "end": 0.97
   }
  ]
 }
