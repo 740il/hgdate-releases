@@ -398,6 +398,28 @@
    "end": 0.97
   },
   {
+   "id": "gift_37",
+   "section": "gift",
+   "file": "gift_37.jpg",
+   "name": "إهداء 37",
+   "nameEn": "Gift 37",
+   "color": "",
+   "pos": 0.6,
+   "shade": false,
+   "end": 0.97
+  },
+  {
+   "id": "gift_38",
+   "section": "gift",
+   "file": "gift_38.jpg",
+   "name": "إهداء 38",
+   "nameEn": "Gift 38",
+   "color": "",
+   "pos": 0.6,
+   "shade": false,
+   "end": 0.97
+  },
+  {
    "id": "islamic_01",
    "section": "islamic",
    "file": "islamic_01.jpg",
